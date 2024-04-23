@@ -1,6 +1,6 @@
 
 
-[OSS Pull Requests](https://github.com/pulls?q=is%3Apr+author%3Avenkatamutyala+archived%3Afalse+is%3Aclosed+-org%3AGlueOps+is%3Apublic+is%3Amerged+-org%3Avenkata-tenant-test-1+-org%3Avenkatamutyala+-org%3Aantoniostacos+-org%3Ademo-antoniostacos+-org%3Apluralsight+-org%3Amagicmemories+-org%3Afragmob+-org%3Abillyfoss)
+[OSS Pull Requests](https://github.com/pulls?q=is%3Apr+author%3Avenkatamutyala+archived%3Afalse+is%3Aclosed+-org%3AGlueOps+is%3Apublic+is%3Amerged+-org%3Avenkata-tenant-test-1+-org%3Avenkatamutyala+-org%3Aantoniostacos+-org%3Ademo-antoniostacos+-org%3Apluralsight+-org%3Amagicmemories+-org%3Afragmob+-org%3Abillyfoss+-org%3Atest-renovate-bot-venkata+-org%3Aglueops-rip+-org%3Avenkatamutyala-org3+)
 
 <!--
 **venkatamutyala/venkatamutyala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
