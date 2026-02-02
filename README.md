@@ -3,10 +3,6 @@
 [All my OSS Pull Requests (Required you be Logged into GitHub to search)](https://github.com/pulls?q=is%3Apr+author%3Avenkatamutyala+archived%3Afalse+is%3Aclosed+-org%3AGlueOps+-org%3AGlueOps-*+is%3Apublic+is%3Amerged+-org%3Avenkata-tenant-test-1+-org%3Avenkatamutyala+-org%3Aantoniostacos+-org%3Ademo-antoniostacos+-org%3Apluralsight+-org%3Amagicmemories+-org%3Afragmob+-org%3Abillyfoss+-org%3Atest-renovate-bot-venkata+-org%3Aglueops-rip+-org%3Avenkatamutyala-org3+-org%3Aantoniostaqueria+-org%3Awestern-wyoming-software-development+-org%3Atryglueops+-org%3Adevelopment-tenant-gliese581d+-org%3AGlueOps-LUIT)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=venkatamutyala&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/venkatamutyala) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/venkatamutyala) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@venkatamutyala) 
 
